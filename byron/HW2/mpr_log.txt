@@ -1,0 +1,144 @@
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250022.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250065.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250101.cif.
+c:\Users\byron\miniconda3\envs\HW2\lib\site-packages\pymatgen\io\cif.py:1224: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250125.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250186.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250191.cif.
+c:\Users\byron\miniconda3\envs\HW2\lib\site-packages\pymatgen\io\cif.py:1224: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250223.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250225.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250236.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250328.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250329.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250330.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250331.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250332.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250333.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250334.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250335.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250336.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250337.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250338.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250339.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250340.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250363.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250364.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250365.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250366.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250367.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250368.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250369.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250370.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250372.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250373.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250374.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250375.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250376.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250377.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250378.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250379.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250380.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250381.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250382.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250383.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250384.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250385.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250390.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250394.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250399.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250404.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250410.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250411.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250460.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250461.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250462.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250463.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250464.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250465.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250468.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250469.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250476.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250477.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250502.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250503.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250504.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250505.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250506.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250507.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250508.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250525.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250527.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250530.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250554.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250561.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250562.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250563.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250564.cif.
+Error processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250615.cif. Error is Invalid CIF file with no structures!
+c:\Users\byron\miniconda3\envs\HW2\lib\site-packages\pymatgen\io\cif.py:762: UserWarning: No _symmetry_equiv_pos_as_xyz type key found. Defaulting to P1.
+  warnings.warn(msg)
+c:\Users\byron\miniconda3\envs\HW2\lib\site-packages\pymatgen\io\cif.py:1218: UserWarning: No structure parsed for section 1 in CIF.
+'_atom_site_label'
+  warnings.warn(msg)
+c:\Users\byron\miniconda3\envs\HW2\lib\site-packages\pymatgen\io\cif.py:1224: UserWarning: Issues encountered while parsing CIF: No _symmetry_equiv_pos_as_xyz type key found. Defaulting to P1.
+No structure parsed for section 1 in CIF.
+'_atom_site_label'
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+c:\Users\byron\miniconda3\envs\HW2\lib\site-packages\pymatgen\io\cif.py:1224: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250628.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250646.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250647.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250648.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250649.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250650.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250651.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250652.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250653.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250654.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250668.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250679.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250693.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250717.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250718.cif.
+Error processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250732.cif. Error is Invalid CIF file with no structures!
+c:\Users\byron\miniconda3\envs\HW2\lib\site-packages\pymatgen\io\cif.py:1224: UserWarning: Issues encountered while parsing CIF: No structure parsed for section 1 in CIF.
+'_atom_site_label'
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250733.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250735.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250737.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250740.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250742.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250751.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250752.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250753.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250754.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250755.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250763.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250765.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250804.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250805.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250806.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250807.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250808.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250809.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250810.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250811.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250891.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250892.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250893.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250894.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250907.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250910.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250920.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250931.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250934.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250959.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250962.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250963.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250966.cif.
+Success processing c:\Users\byron\OneDrive\Documents\GitHub\MaterialsInformatics\byron\HW2\cn-featurizer\cifs\250977.cif.
